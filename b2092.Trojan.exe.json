@@ -31,14 +31,6 @@
         "hideDisabled": false,
         "techniques": [
                 {
-                        "techniqueID": "T1027.009",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1140",
                         "color": "#e60d0d",
                         "comment": "",
@@ -47,7 +39,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1045",
+                        "techniqueID": "T1027.009",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -56,6 +48,14 @@
                 },
                 {
                         "techniqueID": "T1129",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1045",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
